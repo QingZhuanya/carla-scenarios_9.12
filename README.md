@@ -61,3 +61,4 @@ License
 -------
 
 ScenarioRunner specific code is distributed under MIT License.
+# carla-scenarios_9.12
